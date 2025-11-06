@@ -78,11 +78,10 @@ sudo docker logs cowrie
 ## 🖼 Screenshots
 
 **SSH Session (interactive shell)**
-`![SSH session screenshot](Screenshot 2025-11-06 114745.png)`
+<img width="1920" height="1020" alt="Screenshot 2025-11-06 114745" src="https://github.com/user-attachments/assets/94b998de-75a5-4907-8079-efdd206c8056" />
 
 **Docker logs showing captured commands**
-![docker logs screenshot](<img width="1920" height="1020" alt="Screenshot 2025-11-06 114758" src="https://github.com/user-attachments/assets/54d1dc0f-a565-49bf-b068-ad6d1448f109" />
-)
+<img width="1920" height="1020" alt="Screenshot 2025-11-06 114758" src="https://github.com/user-attachments/assets/54d1dc0f-a565-49bf-b068-ad6d1448f109" />
 
 ---
 
